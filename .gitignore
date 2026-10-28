@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights — 254 MB, exceeds GitHub's 100 MB limit.
+# Use Git LFS or host on Google Drive and update MODEL_PATH in app.py
+*.h5
+
+# OS files
+Thumbs.db
+.DS_Store
